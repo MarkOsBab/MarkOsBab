@@ -3,6 +3,7 @@
 Full stack developer from Montevideo, Uruguay, building web and mobile products since 2019.
 
 - 💼 **Full stack developer at [Solcre](https://solcre.com)**: Angular front ends and NestJS / Laravel APIs for client products.
+- 🍄 **Co-founder of [Micelium](https://micelium.dev)** ([@micelium-dev](https://github.com/micelium-dev)): websites, custom software and automations for companies in Latin America, built on our own Angular UI library.
 - 🚀 **Founder of [Llegamos](https://llegamos.uy)**: an app for household bills and expenses. Web, iOS and Android from one Angular codebase (Capacitor), a NestJS + Prisma + PostgreSQL API on Google Cloud Run, and a WhatsApp assistant powered by AI to log expenses from a message, a voice note or a photo of the receipt.
 
 ## Stack
@@ -28,6 +29,7 @@ Full stack developer from Montevideo, Uruguay, building web and mobile products 
 | When | Role | Where |
 | --- | --- | --- |
 | 2024 – now | Full stack developer | Solcre |
+| 2026 – now | Co-founder & full stack developer | [Micelium](https://micelium.dev) |
 | 2026 – now | Founder & developer | [Llegamos](https://llegamos.uy) |
 | 2023 – 2024 | Full stack developer | Multiline Contact Center |
 | 2022 – 2023 | Systems assistant | Instituto Plan Agropecuario |
@@ -37,4 +39,4 @@ Most of my recent work lives in private repositories.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/markosbab/) · [llegamos.uy](https://llegamos.uy)
+[LinkedIn](https://www.linkedin.com/in/markosbab/) · [micelium.dev](https://micelium.dev) · [llegamos.uy](https://llegamos.uy)
